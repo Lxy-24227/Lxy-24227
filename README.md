@@ -10,7 +10,7 @@
 
 🏀 When I'm not coding, you'll find me cheering for the **Miami Heat**. Let's go Heat！🔥🔥🔥
 
-## GitHub Stats
+## GitHub Stats🎖️
 
 [![Lxy-24227's GitHub stats](https://github-stats-extended.vercel.app/api?username=Lxy-24227&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Lxy-24227&layout=compact&langs_count=4&card_width=450)
