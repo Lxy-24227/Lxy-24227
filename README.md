@@ -13,4 +13,4 @@
 ## GitHub Stats🎖️
 
 [![Lxy-24227's GitHub stats](https://github-stats-extended.vercel.app/api?username=Lxy-24227&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Lxy-24227&layout=compact&langs_count=4&card_width=465)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Lxy-24227&layout=compact&langs_count=4&card_width=467)
